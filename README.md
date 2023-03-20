@@ -27,7 +27,7 @@ Hello! here's a little about me:
   My Spotify ♟️
 </h1>
 
-[![Spotify](https://iamvpk.vercel.app/api/spotify)](https://open.spotify.com/user/84zoirugbpmieolp8lwxz15je)
+[![Spotify](https://now-playing-iamvpk.vercel.app/api/spotify)](https://open.spotify.com/user/84zoirugbpmieolp8lwxz15je)
 <p></p>
 
 <h1>
