@@ -26,8 +26,9 @@ Hello! here's a little about me:
 <h1>
   My Spotify ♟️
 </h1>
-
-[![Spotify](https://spotify-ux.vercel.app/api/spotify)](https://open.spotify.com/user/84zoirugbpmieolp8lwxz15je)
+&nbsp;<div align="center">
+  [![Spotify](https://spotify-ux.vercel.app/api/spotify)](https://open.spotify.com/user/84zoirugbpmieolp8lwxz15je)
+</div>
 <p></p>
 
 <h1>
