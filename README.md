@@ -1,7 +1,7 @@
-hello! here's a little about me:
+Hello! here's a little about me:
 
 <h1>
-  i really like music :headphones:
+  I Love Music :headphones:
 </h1>
 
 <!-- Nothing weird to see here -->
@@ -24,19 +24,10 @@ hello! here's a little about me:
 <p></p>
 
 <h1>
-  i was a frontend intern at chess.com ♟️
+  My Spotify ♟️
 </h1>
 
-<p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://readme.andyruwruw.com/api/chess-games">
-  </a>
-</p>
-
-<p align="center">
-  <i>luckily being good at chess wasn't a pre-req to the job</i>
-</p>
-
+[![Spotify](https://iamvpk.vercel.app/api/spotify)](https://open.spotify.com/user/84zoirugbpmieolp8lwxz15je)
 <p></p>
 
 <h1>
